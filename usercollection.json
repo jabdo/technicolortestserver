@@ -1,0 +1,10 @@
+{"user": "alice", "password": "testing1", "location": "Chicago", "favoritecolor": "orange"}
+{"user": "bob", "password": "testing2", "location": "Seatle", "favoritecolor": "yellow"}
+{"user": "carol", "password": "testing3", "location": "Seatle", "favoritecolor": "red"}
+{"user": "daniel", "password": "testing4", "location": "Chicago", "favoritecolor": "orange"}
+{"user": "eve", "password": "testing5", "location": "Chicago", "favoritecolor": "yellow"}
+{"user": "frank", "password": "testing6", "location": "Seatle", "favoritecolor": "yellow"}
+{"user": "gina", "password": "testing7", "location": "Chicago", "favoritecolor": "yellow"}
+{"user": "henry", "password": "testing8", "location": "Seatle", "favoritecolor": "orange"}
+{"user": "iris", "password": "testing9", "location": "Chicago", "favoritecolor": "orange"}
+{"user": "jack", "password": "testing10", "location": "Seatle", "favoritecolor": "red"}
