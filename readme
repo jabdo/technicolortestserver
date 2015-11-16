@@ -1,0 +1,13 @@
+Installation:
+
+Install LAMP stack
+
+Install MongoDB, php5, mongo-php
+add Mongo to php.ini
+Add user "technicolor," pw "testbed" to Mongo
+
+mongoimport --db backendtest --collection user --file usercollection.json
+
+Note: 
+
+The security here is set to be easy to test, with plaintext values for username and passwords. In production, hash and salts would be used to store and check username and password values. Also, the login cookie would corespond to a login entry on the MongoDB
