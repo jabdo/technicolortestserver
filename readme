@@ -2,7 +2,7 @@ Installation:
 
 Install LAMP stack, or your preferred web stack with Apache and PHP.
 Install MongoDB, php5, and mongo-php to make sure that
-add Mongo to php.ini
+Add 'extension=mongo.so' to php.ini
 Add user "technicolor," pw "testbed" to the mongo database
 
 To import the test collection, use mongoimport, and call the database "backendtest". The collection should be named "user", or renamed accordingly in "login.php", and a test file, "usercollection.json", is provided. The following command can be
